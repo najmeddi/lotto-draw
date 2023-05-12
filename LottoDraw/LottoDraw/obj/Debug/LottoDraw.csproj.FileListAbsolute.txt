@@ -1,0 +1,7 @@
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\bin\Debug\LottoDraw.exe.config
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\bin\Debug\LottoDraw.exe
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\bin\Debug\LottoDraw.pdb
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\obj\Debug\LottoDraw.csprojAssemblyReference.cache
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\obj\Debug\LottoDraw.csproj.CoreCompileInputs.cache
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\obj\Debug\LottoDraw.exe
+C:\Users\omidn\Documents\Visual Studio 2017\Projects\LottoDraw\LottoDraw\obj\Debug\LottoDraw.pdb
