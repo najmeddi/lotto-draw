@@ -24,7 +24,7 @@ namespace LottoDraw
         /// </summary>
         public DrawsFile()
         {
-            using (var reader = new StreamReader(Constants.FILE_LOCATION))
+            using (var reader = new StreamReader(Path.GetFullPath(Constants.FILE_LOCATION)))
             {
                 // Initialize the draw list object
                 drawList = new List<string>();

@@ -9,7 +9,7 @@ namespace LottoDraw
     class Constants
     {
         public const int DRAW_SIZE = 6;
-        public const string FILE_LOCATION = @"C:\Users\omidn\Documents\numbers.csv";
+        public const string FILE_LOCATION = "./numbers.csv";
         public const string FORMAT = "{0,-25} {1, -20} {2, 10} {3, 20}";
         public static string MAIN_MENU_STR = "MENU\n----\n" + "\n[M]To main menu\n[1]Display games out\n[2]Display hot numbers\n[3]Display cold numbers\n[4]Display repeated numbers\n[5]Display number-group count\n[6]Display Draws\n[7]Display occurances of number\n[E]Exit";
         public const string ODD_EVEN_ERR_MSG = "Could not pick even odd numbers. Draw number list not initialzed.";
